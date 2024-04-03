@@ -129,7 +129,7 @@ Esperamos que este guia tenha fornecido uma visão abrangente sobre o Android SD
  - Suporte para rescisão de qualquer PID 👨‍💻🔪
 ## Demonstração Andromeda HVNC V5
 
-Andromeda HVNC V5 https://youtu.be/ASO7MfcjHF0?si=kIfL9EaayIi5kCOu Monitoramente de whatsapp
+Andromeda HVNC V5 https://youtu.be/ASO7MfcjHF0?si=kIfL9EaayIi5kCOu 
 
 ## 🚀 Sobre Andromeda Software
 🔒 Você está pronto para assumir o controle de seus dispositivos móveis como nunca antes? Não procure mais! Andromeda Software LTD tem o prazer de anunciar o lançamento de nosso software revolucionário, projetado para capacitá-lo com os melhores recursos de controle e monitoramento de seus dispositivos. 📱💪
