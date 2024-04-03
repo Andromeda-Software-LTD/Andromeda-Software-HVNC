@@ -1,0 +1,57 @@
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\bin\Release\net472\AndromedaHVNC.exe.config
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\bin\Release\net472\AndromedaHVNC.exe
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\bin\Release\net472\AndromedaHVNC.pdb
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\bin\Release\net472\Guna.UI2.dll
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\bin\Release\net472\Siticone.Desktop.UI.dll
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\Forms.Frm_Darshboard.resources
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\Forms.Frm_Terms.resources
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.FrmMain.resources
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.FrmTransfer.resources
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.FrmVNC.resources
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.Properties.Resources.resources
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\Properties.Resources.resources
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.csproj.GenerateResource.cache
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.csproj.CoreCompileInputs.cache
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.csproj.CopyComplete
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.exe
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.pdb
+C:\Users\Whoami\Desktop\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.csproj.AssemblyReference.cache
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.csproj.AssemblyReference.cache
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\Forms.Frm_Darshboard.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\Forms.Frm_Terms.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.FrmMain.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.FrmTransfer.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.FrmVNC.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\HVNC.Properties.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\Properties.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.csproj.GenerateResource.cache
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.csproj.CoreCompileInputs.cache
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.exe
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\AndromedaHVNC.pdb
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\bin\Release\net472\AndromedaHVNC.exe.config
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\bin\Release\net472\AndromedaHVNC.exe
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\bin\Release\net472\AndromedaHVNC.pdb
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\bin\Release\net472\Guna.UI2.dll
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\bin\Release\net472\Siticone.Desktop.UI.dll
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\PANDORA\obj\Release\net472\Andromed.EEB9971C.Up2Date
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\AndromedaHVNC.csproj.AssemblyReference.cache
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\Forms.Frm_Darshboard.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\Forms.Frm_Terms.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\HVNC.FrmMain.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\HVNC.FrmTransfer.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\HVNC.FrmVNC.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\HVNC.Properties.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\Properties.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\AndromedaHVNC.csproj.GenerateResource.cache
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\AndromedaHVNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\AndromedaHVNC.csproj.CoreCompileInputs.cache
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\AndromedaHVNC.exe
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\AndromedaHVNC.pdb
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\bin\Release\net472\AndromedaHVNC.exe.config
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\bin\Release\net472\AndromedaHVNC.exe
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\bin\Release\net472\AndromedaHVNC.pdb
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\bin\Release\net472\Guna.UI2.dll
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\bin\Release\net472\Siticone.Desktop.UI.dll
+C:\Users\cabec\Documents\Projetcs\Pandora - 2023s\Pandora - 2022\Andromeda Software HVNC V5.0\obj\Release\net472\Andromed.EEB9971C.Up2Date

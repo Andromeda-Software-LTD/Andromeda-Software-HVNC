@@ -1,0 +1,7 @@
+C:\Users\Whoami\Desktop\Pandora - 2022\Client\obj\Release\net48\unnokw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Whoami\Desktop\Pandora - 2022\Client\obj\Release\net48\unnokw.csproj.CoreCompileInputs.cache
+C:\Users\Whoami\Desktop\Pandora - 2022\Client\bin\Release\net48\unnokw.exe.config
+C:\Users\Whoami\Desktop\Pandora - 2022\Client\bin\Release\net48\unnokw.exe
+C:\Users\Whoami\Desktop\Pandora - 2022\Client\bin\Release\net48\unnokw.pdb
+C:\Users\Whoami\Desktop\Pandora - 2022\Client\obj\Release\net48\unnokw.exe
+C:\Users\Whoami\Desktop\Pandora - 2022\Client\obj\Release\net48\unnokw.pdb

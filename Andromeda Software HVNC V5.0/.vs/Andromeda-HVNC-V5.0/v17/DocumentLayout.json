@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cabec\\Documents\\Projetcs\\Pandora - 2023s\\Pandora - 2022\\Andromeda Software HVNC V5.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A058B1C4-52D5-4730-9B2F-3B6E24A07CB3}|AndromedaHVNC.csproj|c:\\users\\cabec\\documents\\projetcs\\pandora - 2023s\\pandora - 2022\\andromeda software hvnc v5.0\\forms\\frm_darshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A058B1C4-52D5-4730-9B2F-3B6E24A07CB3}|AndromedaHVNC.csproj|solutionrelative:forms\\frm_darshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Darshboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cabec\\Documents\\Projetcs\\Pandora - 2023s\\Pandora - 2022\\Andromeda Software HVNC V5.0\\Forms\\Frm_Darshboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Frm_Darshboard.cs",
+              "ToolTip": "C:\\Users\\cabec\\Documents\\Projetcs\\Pandora - 2023s\\Pandora - 2022\\Andromeda Software HVNC V5.0\\Forms\\Frm_Darshboard.cs [Design]",
+              "RelativeToolTip": "Forms\\Frm_Darshboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:10:22.332Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
